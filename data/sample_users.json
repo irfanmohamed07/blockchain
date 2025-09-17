@@ -1,0 +1,57 @@
+[
+  {
+    "user_address": "0x1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b",
+    "username": "CryptoArtist123",
+    "profile": {
+      "name": "Alex Thompson",
+      "bio": "Digital artist creating unique NFT collections",
+      "location": "San Francisco, CA",
+      "verified": true
+    },
+    "initial_balance": 5000
+  },
+  {
+    "user_address": "0x2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c",
+    "username": "GameDevStudio",
+    "profile": {
+      "name": "Pixel Games Studio",
+      "bio": "Blockchain game development company",
+      "location": "Austin, TX",
+      "verified": true
+    },
+    "initial_balance": 10000
+  },
+  {
+    "user_address": "0x3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d",
+    "username": "CardCollector",
+    "profile": {
+      "name": "Sarah Chen",
+      "bio": "Avid collector of digital trading cards and NFTs",
+      "location": "New York, NY",
+      "verified": false
+    },
+    "initial_balance": 2500
+  },
+  {
+    "user_address": "0x4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e",
+    "username": "CryptoAcademy",
+    "profile": {
+      "name": "Blockchain Education Institute",
+      "bio": "Leading provider of blockchain education and certification",
+      "location": "London, UK",
+      "verified": true
+    },
+    "initial_balance": 15000
+  },
+  {
+    "user_address": "0x5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f",
+    "username": "InvestorPro",
+    "profile": {
+      "name": "Michael Rodriguez",
+      "bio": "Professional crypto investor and trader",
+      "location": "Miami, FL",
+      "verified": true
+    },
+    "initial_balance": 20000
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "asset_id": "nft_001",
+    "name": "Digital Art Masterpiece #1",
+    "description": "A unique digital artwork featuring abstract geometric patterns in vibrant colors",
+    "creator_address": "0x1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b",
+    "asset_type": "NFT",
+    "metadata": {
+      "image_url": "https://example.com/art1.png",
+      "artist": "CryptoArtist123",
+      "resolution": "4096x4096",
+      "format": "PNG",
+      "rarity": "Legendary"
+    }
+  },
+  {
+    "asset_id": "token_001",
+    "name": "GameFi Utility Token",
+    "description": "In-game utility token for the popular blockchain game CryptoQuest",
+    "creator_address": "0x2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c",
+    "asset_type": "Token",
+    "metadata": {
+      "game": "CryptoQuest",
+      "utility": "Purchase weapons, armor, and upgrades",
+      "total_supply": 1000000,
+      "transferable": true
+    }
+  },
+  {
+    "asset_id": "nft_002",
+    "name": "Rare Trading Card #42",
+    "description": "Limited edition digital trading card from the Crypto Legends collection",
+    "creator_address": "0x3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d",
+    "asset_type": "NFT",
+    "metadata": {
+      "collection": "Crypto Legends",
+      "card_number": 42,
+      "rarity": "Epic",
+      "stats": {
+        "attack": 85,
+        "defense": 72,
+        "speed": 90
+      }
+    }
+  },
+  {
+    "asset_id": "cert_001",
+    "name": "Blockchain Developer Certificate",
+    "description": "Professional certification for blockchain development skills",
+    "creator_address": "0x4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e",
+    "asset_type": "Certificate",
+    "metadata": {
+      "issuer": "CryptoAcademy",
+      "skill_level": "Advanced",
+      "expiry_date": "2026-12-31",
+      "skills": ["Solidity", "Web3", "DeFi", "Smart Contracts"]
+    }
+  }
+]
